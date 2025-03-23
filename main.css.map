@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","sources":["webpack://client-main/./src/main.css"],"sourcesContent":["body {\n    background-color: #191919;\n    color: #364364;\n    overflow: hidden;\n    margin: 0;\n}\n\n#canvas {\n    width: 100%;\n    height: 100%;\n}"],"names":[],"mappings":"AAAA,qEAOA"}
